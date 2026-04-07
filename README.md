@@ -95,7 +95,7 @@ I aim to bridge the gap between research and deployment by building efficient, s
 ## Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/manoj-dhandapani">
+  <a href="www.linkedin.com/in/manoj-dhandapani-647321281">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:djmanoj3006@gmail.com">
