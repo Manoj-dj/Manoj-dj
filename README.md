@@ -1,27 +1,24 @@
-<h1 align="center">Manoj DJ</h1>
-
+<!-- Banner -->
 <p align="center">
-  Machine Learning Engineer • MLOps • Computer Vision
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=Manoj%20DJ&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
+<!-- Typing intro -->
 <p align="center">
-  <a href="https://linkedin.com/in/manoj-dhandapani">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:djmanoj3006@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Manoj-dj">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00ADB5&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;MLOps+%7C+Computer+Vision;Building+Production+AI+Systems" />
 </p>
 
 ---
 
-## About
+## About Me
 
-Computer Science student at VIT with strong focus on Machine Learning, Deep Learning, and MLOps.  
-Experience building production-grade ML systems, including RAG pipelines, computer vision models, and deployed APIs.
+I am a Computer Science student at VIT with a strong focus on Machine Learning, Deep Learning, and MLOps.  
+I specialize in building end-to-end AI systems — from model training to deployment and monitoring.
+
+I have hands-on experience developing RAG pipelines, YOLO-based computer vision systems, and scalable backend APIs.  
+My work emphasizes production-grade engineering, reproducibility, and real-world applicability.
+
+I aim to bridge the gap between research and deployment by building efficient, scalable, and intelligent systems.
 
 ---
 
@@ -38,12 +35,11 @@ Experience building production-grade ML systems, including RAG pipelines, comput
 ### ML / DL / AI
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=flat"/>
 </p>
 
@@ -52,6 +48,9 @@ Experience building production-grade ML systems, including RAG pipelines, comput
 ### Cloud & MLOps
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker" />
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS%20S3-569A31?style=flat&logo=amazon-s3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ECR-FF9900?style=flat"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white"/>
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat"/>
   <img src="https://img.shields.io/badge/DVC-945DD6?style=flat"/>
@@ -87,6 +86,13 @@ Experience building production-grade ML systems, including RAG pipelines, comput
 
 ---
 
+## Achievements
+
+- Secured **3rd place** in Code Cubicle 5.0 at Microsoft Office, Bangalore (3500+ participants)  
+- **Runner-Up** in NeuroHack organized by IIT Madras (1000+ participants)  
+
+---
+
 ## GitHub Analytics
 
 <p align="center">
@@ -99,7 +105,7 @@ Experience building production-grade ML systems, including RAG pipelines, comput
 
 ---
 
-## Contact
+## Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/manoj-dhandapani">
@@ -108,4 +114,11 @@ Experience building production-grade ML systems, including RAG pipelines, comput
   <a href="mailto:djmanoj3006@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
 </p>
