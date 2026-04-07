@@ -1,104 +1,86 @@
-<h1 align="center">Manoj D</h1>
-<p align="center">
-  AI/ML Engineer | Full Stack Developer | MLOps Enthusiast
-</p>
+# Manoj DJ
+
+Software Engineer | Machine Learning & MLOps Enthusiast
 
 ---
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Engineer-blue" />
-  <img src="https://img.shields.io/badge/MLOps-Engineer-green" />
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange" />
-</p>
 
----
 ## About Me
 
-I am an Information Technology undergraduate at VIT Vellore with a strong focus on Artificial Intelligence, Machine Learning, and scalable system design. I specialize in building production-ready AI systems, combining deep learning, computer vision, and modern MLOps practices.
+I am a Computer Science student with a strong focus on Machine Learning, Deep Learning, and MLOps. I build end-to-end intelligent systems — from model development to deployment and monitoring.
 
-I have hands-on experience developing end-to-end ML pipelines, deploying AI solutions on cloud infrastructure, and integrating intelligent systems into real-world applications.
-
----
-
-## Experience
-
-**AI/ML Intern — Coffee Inc.**  
-*May 2025 – July 2025 | Chennai, India*
-
-- Developed a Retrieval-Augmented Generation (RAG) system using Mistral OCR and Weaviate for semantic document search  
-- Built a computer vision pipeline using OpenCV for CAD conversion (SVG/DXF), improving detection accuracy  
-- Trained YOLO models and designed data labeling workflows for layout detection  
-- Integrated ML models into production using FastAPI and MongoDB  
+My work emphasizes practical engineering: scalable systems, reproducible pipelines, and production-ready ML applications.
 
 ---
 
-## Key Projects
+## Core Expertise
 
-### ContractIQ — MLOps Legal Analysis System
-- Built an end-to-end MLOps pipeline with TinyRoBERTa achieving **85.97% F1-score**
-- Designed a conversational RAG system using ChromaDB and Gemini
-- Deployed scalable APIs with FastAPI + Docker on AWS EC2
-- Implemented CI/CD using GitHub Actions for automated model versioning
-
-### TruthLens — Explainable Fake News Detection
-- Achieved **99.27% F1-score** using RoBERTa-based model
-- Integrated SHAP for explainable AI insights
-- Deployed system using AWS (EC2, DynamoDB, CloudFront, CloudWatch)
-
-### Customer Assist AI — Edge AI Smart Kiosk
-- Built real-time emotion detection using YOLO (98.9% mAP50)
-- Reduced false positives by 40% using temporal consistency logic
-- Deployed edge solution using ESP32-CAM with WebSocket dashboard
+- Machine Learning & Deep Learning
+- Computer Vision (YOLO, OpenCV)
+- MLOps & Model Deployment
+- Backend Development (FastAPI)
+- Data Engineering & Pipelines
+- Experiment Tracking & Model Versioning
 
 ---
 
-## Technical Skills
+## Tech Stack
 
 ### Languages
-Python, Java, SQL, JavaScript, HTML/CSS
+- Python
+- C++
+- JavaScript
+- SQL
 
-### AI / ML
-PyTorch, TensorFlow, Hugging Face, OpenCV, Scikit-learn, Pandas
+### Machine Learning & Data
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- Pandas, NumPy
+- OpenCV
 
-### MLOps & Cloud
-AWS (EC2, S3, ECR), Docker, GitHub Actions, MLflow, DVC, DagsHub
+### MLOps & Deployment
+- Docker
+- MLflow
+- DVC
+- FastAPI
+- AWS (EC2, ECR)
+- CI/CD (GitHub Actions)
 
-### Databases
-MongoDB, ChromaDB, SQLite, Weaviate, DynamoDB
-
-### Backend & APIs
-FastAPI, Flask, REST APIs, WebSockets
-
-### Tools
-Git, VS Code, Android Studio
+### Tools & Systems
+- Git & GitHub
+- Linux
+- VS Code
+- Grafana (Monitoring)
+- Evidently AI
 
 ---
 
-## Achievements
+## What I Focus On
 
-- 3rd Place — Code Cubicle 5.0 (Microsoft Office, Bangalore) among 3500+ participants  
-- Runner-Up — NeuroHack, IIT Madras (1000+ participants)  
+- Building production-grade ML systems
+- Designing scalable ML pipelines
+- Applying computer vision to real-world problems
+- Bridging the gap between research and deployment
 
 ---
 
-## GitHub Stats
+## Currently Working On
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manoj-dj&show_icons=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-dj&layout=compact" />
-</p>
+- End-to-end MLOps pipelines
+- Real-time ML systems with monitoring
+- Improving system design and backend engineering skills
 
 ---
 
 ## Contact
 
-- Email: djmanoj3006@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/manoj-dhandapani-647321281  
-- GitHub: https://github.com/Manoj-dj  
+- LinkedIn: https://www.linkedin.com/in/manoj-dhandapani-647321281
+- Email: djmanoj3006@gmail.com
 
 ---
 
-## Featured Projects
+## GitHub Stats
 
-- https://github.com/Manoj-dj/ContractIQ  
-- https://github.com/Manoj-dj/TruthLens_Fake-News-Detection-System  
-- https://github.com/Manoj-dj/Customer-Assist-AI  
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
