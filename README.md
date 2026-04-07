@@ -95,11 +95,11 @@ I aim to bridge the gap between research and deployment by building efficient, s
 ## Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/manoj-dhandapani-647321281">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/manoj-dhandapani-647321281">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:djmanoj3006@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
