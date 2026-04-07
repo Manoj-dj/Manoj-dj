@@ -12,12 +12,10 @@
 
 ## About Me
 
-I am a Computer Science student at VIT with a strong focus on Machine Learning, Deep Learning, and MLOps.  
+I am a IT student at VIT with a strong focus on Machine Learning, Deep Learning, and MLOps.  
 I specialize in building end-to-end AI systems — from model training to deployment and monitoring.
-
 I have hands-on experience developing RAG pipelines, YOLO-based computer vision systems, and scalable backend APIs.  
 My work emphasizes production-grade engineering, reproducibility, and real-world applicability.
-
 I aim to bridge the gap between research and deployment by building efficient, scalable, and intelligent systems.
 
 ---
@@ -93,17 +91,6 @@ I aim to bridge the gap between research and deployment by building efficient, s
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manoj-dj&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manoj-dj&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
 
 ## Connect
 
