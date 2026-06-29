@@ -5,7 +5,7 @@
 
 <!-- Typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00ADB5&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;MLOps+%7C+Computer+Vision;Building+Production+AI+Systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00ADB5&center=true&vCenter=true&width=700&lines=AI+ML+Engineer;MLOps+%7C+Computer+Vision;Building+Production+AI+Systems" />
 </p>
 
 ---
