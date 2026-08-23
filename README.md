@@ -12,11 +12,11 @@
 
 ## About Me
 
-I am a IT student at VIT with a strong focus on Machine Learning, Deep Learning, and MLOps.  
-I specialize in building end-to-end AI systems — from model training to deployment and monitoring.
-I have hands-on experience developing RAG pipelines, YOLO-based computer vision systems, and scalable backend APIs.  
-My work emphasizes production-grade engineering, reproducibility, and real-world applicability.
-I aim to bridge the gap between research and deployment by building efficient, scalable, and intelligent systems.
+Hi, I’m Manoj D J, an AI/ML Engineer focused on architecting and deploying end-to-end intelligent systems.
+
+As an AWS Certified Machine Learning Engineer – Associate with hands-on industry internship experience, I build reliable, production-ready AI solutions across Machine Learning, Computer Vision, Generative AI, Data Science, and MLOps.
+
+I thrive at the intersection of model development and cloud infrastructure, ensuring AI models seamlessly transition from research to scalable production environments.
 
 ---
 
@@ -86,8 +86,9 @@ I aim to bridge the gap between research and deployment by building efficient, s
 
 ## Achievements
 
-- Secured **3rd place** in Code Cubicle 5.0 at Microsoft Office, Bangalore (3500+ participants)  
-- **Runner-Up** in NeuroHack organized by IIT Madras (1000+ participants)  
+- Secured **3rd place** in Code Cubicle 5.0 at Microsoft Office, Bangalore: Developed an AI-powered cyber anomaly detection system. (3500+ participants)  
+- **Runner-Up** — NeuroHack, Shaastra, IIT Madras: Led a team to develop an EEG-based machine learning model for emotion
+classification. (1000+ participants)  
 
 ---
 
@@ -95,7 +96,7 @@ I aim to bridge the gap between research and deployment by building efficient, s
 ## Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/manoj-dhandapani-647321281">
+  <a href="https://www.linkedin.com/in/manoj-d-j-647321281">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:djmanoj3006@gmail.com">
